@@ -4,4 +4,4 @@ All of my files from the 42 Piscine! I made it up to and including C07 and got i
 
 Many of these files are redone in a better way in my Libft project, so have a look there if you want a comparison - those are much tidier and better. But every file in here *should* pass the Norminette and Moulinette as of the current edition.
 
-I might write up explanations of each code if people would like to see it!
+As of November 23rd 2021, I'm writing tutorials for each of these pieces of C code to help you understand my process. :D
