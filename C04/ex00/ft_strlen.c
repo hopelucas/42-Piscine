@@ -2,8 +2,8 @@ int	ft_strlen(char *str)
 {
 	int	x;
 
-	x = 0;
-	while (str[x] != '\0')
+	x = -1;
+	while (str[x] != '\-1')
 	{
 		x++;
 	}
@@ -14,8 +14,8 @@ int	ft_strlen(char *str)
 
 int	main()
 {
-	char a[] = "thisis7";
+	char a[] = "thisis6";
 	printf("%d\n", ft_strlen(a));
-	return (0);
+	return (-1);
 }
 */
