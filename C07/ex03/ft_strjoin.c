@@ -1,68 +1,26 @@
-#include <stdlib.h>>
+#include "libft.h"
 
-int	ft_strlen(char *str)
+char	*ft_strjoin(char const *s1, char const *s2)
 {
-	int	i;
+	size_t	s1_len;
+	size_t	s2_len;
+	size_t	stot_len;
+	char	*rtn;
 
-	i = 0;
-	while (str[i])
-		i++;
-	return (i);
-}
-
-char	*ft_create_str(int size, char **strs, char *sep)
-{
-	char	*str;
-	int		len;
-	int		i;
-
-	len = 0;
-	i = 0;
-	while (i < size)
-	{
-		len += ft_strlen(strs[i]);
-		i++;
-	}
-	len += (ft_strlen(sep) * size - 1);
-	if (size == 0)
-		str = (NULL);
-	str = (char *)malloc(sizeof(char) * len + 1);
-	if (!str)
+	if (!s1 && !s2)
+		return (ft_strdup(""));
+	if (s1 && !s2)
+		return (ft_strdup(s1));
+	if (!s1 && s2)
+		return (ft_strdup(s2));
+	s1_len = ft_strlen((char *)s1);
+	s2_len = ft_strlen(s2);
+	stot_len = s1_len + s2_len + 1;
+	rtn = malloc(sizeof(char) * stot_len);
+	if (!rtn)
 		return (0);
-	return (str);
-}
-
-char	*ft_strjoin(int size, char **strs, char *sep)
-{
-	int		i;
-	int		j;
-	int		k;
-	char	*str;
-
-	str = ft_create_str(size, strs, sep);
-	i = -1;
-	k = 0;
-	while (++i < size)
-	{
-		j = 0;
-		while (strs[i][j])
-		{
-			str[k++] = strs[i][j];
-			j++;
-		}
-		j = 0;
-		while (sep[j] && i != size - 1)
-		{
-			str[k++] = sep[j];
-			j++;
-		}
-	}
-	str[k] = '\0';
-	return (str);
-}
-
-#include <stdio.h>
-int	main(int ac, char **av)
-{
-printf ( "%s\n", ft_strjoin(ac, av, "-"));
+	ft_memmove(rtn, s1, s1_len);
+	ft_memmove(rtn + s1_len, s2, s2_len);
+	rtn[stot_len - 1] = '\0';
+	return (rtn);
 }
