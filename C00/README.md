@@ -3,3 +3,43 @@
 Every file of C00, updated so it should get 100% in the moulinette and norminette. Finally found all of my files. Check them out, copy them, use them until you're bored.
 
 I never actually submitted ex08, but did get 100% on everything I submitted. Decided I'd pen it up now so everyone can see it. Will add the PDF documents and etc when I get the time.
+
+Below, I'm adding in explanations of why I did each piece of code the way I did. Maybe open this alongside the code, so you can see it! :D
+
+## EX00 - Putchar
+
+For this one, I'm telling you the name of the function is ft_putchar, and I've decided the place I'll store the value in is C. C is a placeholder here - I'm just saying that we're going to be using a thing of the "character" type, and I'll put whatever character in the place C is stored. Then, I'm telling it I'm going to "write" the character stored in C (which is what &c means - & is shorthand for "stored in") which will be 1 byte of information.
+
+The #include <unistd.h> just means I'll be using the write function, which is found in the unistd library. It's just telling GCC to include all of the functions you find there.
+
+## EX01 - Print Alphabet
+
+I've made the type "void" here, because we're dealing with a few types and it's easy sometimes to do that. The numbers here are from the ASCII table - the numbers 97 to 122 equate from a to z (lowercase). To find this out in the exam, you can use "man ascii" and it'll give you the table - sneaky cheat. All I'm saying here is the number 97 (or a, if you like) is where we'll start.
+
+And while the letter we're up to is less than or equal to 122 (or z), keep printing out that letter. The a++ just means "keep moving through the letters", or as we call it, incrementing!
+
+You can use write(1, "abcdefg(etc)", 26) but sometimes the moulinette will fail you, and to be honest, it's better to get used to using ASCII now so that you're finding it easy in the exam.
+
+## EX02 - Print Reverse Alphabet
+
+This one speaks for itself. You know what we did in EX01? Now just start at Z and go backwards. Simple!
+
+## EX03 - Print Numbers
+
+This, again, is exactly the same as above. Instead, we're just using the ASCII values for 0 to 9. It's kind of weird to imagine that a number can have an ASCII number that represents it in C, but it can't be helped, it is what it is.
+
+## EX04 - Is It Negative?
+
+This may look intimidating, but you're really dealing with something pretty simple here. You know how we talked about storing values in something? Well here, I'm using "n". All I'm doing is saying that if n is less than 0 (making it a negative number), then we'll class that result as "negative" and print the letter 'N'. If the number is more than 0, the number stored in n is "positive", and so we'll print a 'P' for positive.
+
+That's it! You're learning a lot here about how to represent values with something else, like a word or a phrase, based upon whether something is true or false. This simple idea is most of what code is, to be honest.
+
+## EX05 - Print Combine
+
+The difficulty rating spikes a bit here, but again - it's made to look intimidating to scare you. With while loops, I recommend we start reading the code with whichever while loop is the furtherst to the left - in this case, that's the bit that starts "while c <= '9'". I've dispensed with using ASCII here for the sake of time, but some examples I've seen still use it.
+
+The aim of this program is just to print every possible combination without doing any twice. I'm just telling it here that as long as we're not up to 7 8 9, we should keep increasing the third number. It's just like counting - when we get to 10, 11, 12, 13...we're changing the second number but not the first. Here, we're telling it to keep increasing the third number. When it hits enough that the second number has to change - change it by one (or b++, if you like), and then go back in and keep changing the third number. Repeat this until we need to change the first number, as we would if we got to 699 and then went to 700.
+
+Exactly what we did in Print Numbers, exactly what we've been doing this whole time. If it's not the maximum number: keep adding. Then stop when we've reached the maximum! The (1, ", ", 2) is just about how we're spacing the numbers, and telling it to format properly.
+
+Looks scary, not scary. Deep breaths.
