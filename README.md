@@ -22,4 +22,4 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - Norminette consistently
 
 ## Can I Use Your Code?
-Y E S
+**Y E S**
