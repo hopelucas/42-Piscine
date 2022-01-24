@@ -6,7 +6,7 @@
 
 Print a character.
 
-## Method
+### Method
 Function:
 ```void ft_putchar (char c) ```
 
