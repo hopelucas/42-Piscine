@@ -36,6 +36,11 @@ Write and increment
 
 ```a++;```
 
+### Alternate
+
+Write it as a literal string (norminette will accept this).
+
+
 
 ## EX02 - Print Reverse Alphabet
 
@@ -55,7 +60,15 @@ Decrement - count down.
 
 ## EX03 - Print Numbers
 
-This, again, is exactly the same as above. Instead, we're just using the ASCII values for 0 to 9. It's kind of weird to imagine that a number can have an ASCII number that represents it in C, but it can't be helped, it is what it is.
+### About
+
+Print a string of numbers.
+
+### Method
+Function: ```void ft_print_numbers(void)```
+
+Use ASCII table to 
+
 
 ## EX04 - Is It Negative?
 
