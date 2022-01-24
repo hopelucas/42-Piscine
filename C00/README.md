@@ -26,12 +26,12 @@ Print the alphabet in C.
 
 Use the ASCII table that represents letters.
 
-```a = 97;
-while (a <= 122) ```
+```a = 97;```
+```while (a <= 122)```
 
 Write and increment
-```write(1, &a, 1);
-		a++;```
+```write(1, &a, 1);```
+		```a++;```
 
 
 ## EX02 - Print Reverse Alphabet
