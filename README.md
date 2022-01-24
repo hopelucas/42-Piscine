@@ -1,7 +1,25 @@
 # 42-Piscine
 
-All of my files from the 42 Piscine! I made it up to and including C07 and got into the school. Some of this code isn't the best way to do the job, but it'll get it done (I've decided not to correct my code once it has passed so that I can see my personal process).
+## About
 
-Many of these files are redone in a better way in my Libft project, so have a look there if you want a comparison - those are much tidier and better. But every file in here *should* pass the Norminette and Moulinette as of the current edition.
+All of my code from the 42 Piscine, which I finished in August 2020. All code should fit with the current Norminette standard.
 
-As of November 23rd 2021, I'm writing tutorials for each of these pieces of C code to help you understand my process. :D
+## Exercises
+- C00
+- C01
+- C02
+- C03
+- C04
+- C05
+- C06
+- C07
+- Exam
+
+## Tips
+- Finish every project up to 50% completion - don't finish up to 100%
+- Check other githubs for methodology
+- Utilise external tools (Udemy Master The Basics)
+- Norminette consistently
+
+## Can I Use Your Code?
+Y E S
