@@ -31,9 +31,10 @@ Use the ASCII table that represents letters.
 ```while (a <= 122)```
 
 Write and increment
+
 ```write(1, &a, 1);```
 
-		```a++;```
+```a++;```
 
 
 ## EX02 - Print Reverse Alphabet
