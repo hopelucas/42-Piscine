@@ -9,7 +9,9 @@ Print a character.
 ## Method
 Function:
 ```void ft_putchar (char c) ```
+
 Use ```write```:
+
 ```write(1, &c, 1);```
 
 - Store the character in c
