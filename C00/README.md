@@ -19,11 +19,20 @@ Use ```write```:
 - Function has no type
 ## EX01 - Print Alphabet
 
-I've made the type "void" here, because we're dealing with a few types and it's easy sometimes to do that. The numbers here are from the ASCII table - the numbers 97 to 122 equate from a to z (lowercase). To find this out in the exam, you can use "man ascii" and it'll give you the table - sneaky cheat. All I'm saying here is the number 97 (or a, if you like) is where we'll start.
+### About
+Print the alphabet in C.
+### Method
+```void ft_print_alphabet(void)```
 
-And while the letter we're up to is less than or equal to 122 (or z), keep printing out that letter. The a++ just means "keep moving through the letters", or as we call it, incrementing!
+Use the ASCII table that represents letters.
 
-You can use write(1, "abcdefg(etc)", 26) but sometimes the moulinette will fail you, and to be honest, it's better to get used to using ASCII now so that you're finding it easy in the exam.
+```a = 97;
+while (a <= 122) ```
+
+Write and increment
+```write(1, &a, 1);
+		a++;```
+
 
 ## EX02 - Print Reverse Alphabet
 
