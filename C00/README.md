@@ -1,17 +1,20 @@
 # C00 - FINISHED!
 
-Every file of C00, updated so it should get 100% in the moulinette and norminette. Finally found all of my files. Check them out, copy them, use them until you're bored.
-
-I never actually submitted ex08, but did get 100% on everything I submitted. Decided I'd pen it up now so everyone can see it. Will add the PDF documents and etc when I get the time.
-
-Below, I'm adding in explanations of why I did each piece of code the way I did. Maybe open this alongside the code, so you can see it! :D
-
 ## EX00 - Putchar
 
-For this one, I'm telling you the name of the function is ft_putchar, and I've decided the place I'll store the value in is C. C is a placeholder here - I'm just saying that we're going to be using a thing of the "character" type, and I'll put whatever character in the place C is stored. Then, I'm telling it I'm going to "write" the character stored in C (which is what &c means - & is shorthand for "stored in") which will be 1 byte of information.
+### About
 
-The #include <unistd.h> just means I'll be using the write function, which is found in the unistd library. It's just telling GCC to include all of the functions you find there.
+Print a character.
 
+## Method
+Function:
+```void ft_putchar (char c) ```
+Use ```write```:
+```write(1, &c, 1);```
+
+- Store the character in c
+- Write the character in c
+- Function has no type
 ## EX01 - Print Alphabet
 
 I've made the type "void" here, because we're dealing with a few types and it's easy sometimes to do that. The numbers here are from the ASCII table - the numbers 97 to 122 equate from a to z (lowercase). To find this out in the exam, you can use "man ascii" and it'll give you the table - sneaky cheat. All I'm saying here is the number 97 (or a, if you like) is where we'll start.
