@@ -39,7 +39,19 @@ Write and increment
 
 ## EX02 - Print Reverse Alphabet
 
-This one speaks for itself. You know what we did in EX01? Now just start at Z and go backwards. Simple!
+### About
+
+Print the alphabet in reverse.
+
+### Method
+
+See #EX01, but decrement.
+
+```while (z >= 97)```
+
+Decrement - count down.
+
+```z--;```
 
 ## EX03 - Print Numbers
 
