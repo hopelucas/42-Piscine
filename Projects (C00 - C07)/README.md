@@ -70,7 +70,15 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - EX07 - [ft_find_next_prime](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex07)
 - EX08 - [ft_the_ten_queens](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex08)
 ## C06
-
+- EX00 - [ft_print_program_name](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C06/ex00)
+- EX01 - [ft_print_params](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C06/ex01)
+- EX02 - [ft_rev_params](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C06/ex02)
+- EX03 - [ft_sort_params](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C06/ex03)
 ## C07
-
+- EX00 - [ft_strdup](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07/ex00)
+- EX01 - [ft_range](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07/ex01)
+- EX02 - [ft_ultimate_range](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C07/ex02)
+- EX03 - [ft_strjoin](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07/ex03)
+- EX04 - [ft_convert_base](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07/ex04)
+- EX05 - [ft_split](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07/ex05)
 
