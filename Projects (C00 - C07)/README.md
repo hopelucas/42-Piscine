@@ -52,9 +52,23 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - EX05 - [ft_strlcat](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C03/ex05)
 
 ## C04
-
+- EX00 - [ft_strlen](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C04/ex00)
+- EX01 - [ft_putstr](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C04/ex01)
+- EX02 - [ft_putnbr](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C04/ex02)
+- EX03 - [ft_atoi](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C04/ex03)
+- EX04 - [ft_putnbr_base](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C04/ex04)
+- EX05 - [ft_atoi_base](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C04/ex05)
 ## C05
 
+- EX00 - [ft_interative_factorial](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex00)
+- EX01 - [ft_recursive_factorial](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex01)
+- EX02 - [ft_iterative_power](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C05/ex02)
+- EX03 - [ft_recursive_power](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex03)
+- EX04 - [ft_fibonacci](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex04)
+- EX05 - [ft_sqrt](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex05)
+- EX06 - [ft_is_prime](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex06)
+- EX07 - [ft_find_next_prime](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex07)
+- EX08 - [ft_the_ten_queens](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C05/ex08)
 ## C06
 
 ## C07
