@@ -17,6 +17,8 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 ## Exam
 
 ## Rush
+- Rush00 - Building boxes
+- Rush01 - The Skyscraper Problem
 
 ## Tips
 - Finish every project up to 50% completion - don't finish up to 100%
