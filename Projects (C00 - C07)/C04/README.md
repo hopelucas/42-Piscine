@@ -17,7 +17,7 @@ Core Concepts
 ## Recommended Stop Point
 
 After EX02, you can pass this project. Stop here - difficulty jumps from core to advanced.
-Projects
+## Projects
 - EX00 - Get the length of a string
 - EX01 - Print a string
 - EX02 - Print any number within the max / min int
