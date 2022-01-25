@@ -2,7 +2,7 @@
 
 ## About
 
-This project continues your education on strings by introducing maths to them.
+This project looks into parameters, and taking information from programs.
 
 ### Core Concepts 
 - Incrementing through arguments
