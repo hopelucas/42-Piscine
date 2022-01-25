@@ -4,7 +4,7 @@
 
 All of my code from the 42 Piscine, which I finished in August 2020. All code should fit with the current Norminette standard.
 
-## Exercises
+## Projects
 - C00
 - C01
 - C02
@@ -13,7 +13,10 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - C05
 - C06
 - C07
-- Exam
+
+## Exam
+
+## Rush
 
 ## Tips
 - Finish every project up to 50% completion - don't finish up to 100%
