@@ -17,6 +17,16 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 
 ## C01
 
+- EX00 - [ft_ft](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex00)
+- EX01 - [ft_ultimate_ft](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex01)
+- EX02 - [ft_swap](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C01/ex02)
+- EX03 - [ft_div_mod](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex03)
+- EX04 - [ft_ultimate_div_mod](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex04)
+- EX05 - [ft_putstr](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex05)
+- EX06 - [ft_strlen](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex06)
+- EX07 - [ft_rev_int_tab](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex07)
+- EX08 - [ft_sort_int_tab](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C01/ex08)
+
 ## C02
 
 ## C03
