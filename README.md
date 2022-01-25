@@ -15,9 +15,9 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - [C07](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C07) - Memory allocation
 
 ## Exam
-- Level 0 - Printing characters, short strings, parameters, numbers
-- Level 1 - Getting information from strings, string manipulation, rot
-- Level 2 - Bit reversal, printing complex strings, mathematical concepts
+- [Level 0](https://github.com/hopelucas/42-Piscine/tree/main/Exam/Level%200) - Printing characters, short strings, parameters, numbers
+- [Level 1](https://github.com/hopelucas/42-Piscine/tree/main/Exam/Level%201) - Getting information from strings, string manipulation, rot
+- [Level 2](https://github.com/hopelucas/42-Piscine/tree/main/Exam/Level%202) - Bit reversal, printing complex strings, mathematical concepts
 
 ## Rush
 - Rush00 - Building boxes
