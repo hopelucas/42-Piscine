@@ -29,6 +29,20 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 
 ## C02
 
+- EX00 - [ft_strcpy](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex00)
+- EX01 - [ft_strncpy](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex01)
+- EX02 - [ft_str_is_alpha](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C01)/C02/ex02)
+- EX03 - [ft_str_is_numeric](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex03)
+- EX04 - [ft_str_is_lowercase](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex04)
+- EX05 - [ft_str_is_uppercase](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex05)
+- EX06 - [ft_str_is_printable](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex06)
+- EX07 - [ft_strupcase](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex07)
+- EX08 - [ft_strlowcase](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex08)
+- EX09 - [ft_strcapitalise](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex09)
+- EX10 - [ft_strlcpy](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex10)
+- EX11 - [ft_putstr_not_printable](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex11)
+- EX12 - [ft_print_memory](https://github.com/hopelucas/42-Piscine/tree/main/Projects%20(C00%20-%20C07)/C02/ex12)
+
 ## C03
 
 ## C04
