@@ -20,7 +20,7 @@ All of my code from the 42 Piscine, which I finished in August 2020. All code sh
 - [Level 2](https://github.com/hopelucas/42-Piscine/tree/main/Exam/Level%202) - Bit reversal, printing complex strings, mathematical concepts
 
 ## Rush
-- Rush00 - Building boxes
+- [Rush00](https://github.com/hopelucas/42-Piscine/blob/main/Rush/rush00.c) - Building boxes
 - Rush01 - The Skyscraper Problem
 
 ## Tips
